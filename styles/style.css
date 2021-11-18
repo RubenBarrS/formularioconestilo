@@ -1,0 +1,24 @@
+body>div{
+	background-color: greenyellow;
+	border: 4px solid black;
+	height: 100px;
+	width: 300px;
+}
+
+input:focus{
+	background-color: yellow;
+}
+
+div>a{
+
+	border: solid 2px orange;
+	width: 100px;
+	height: 100px;
+	cursor: pointer;
+	background-color: white;
+}
+
+a:hover{
+	background-color: skyblue;
+}
+
